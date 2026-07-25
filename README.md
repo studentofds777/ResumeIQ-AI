@@ -127,8 +127,7 @@ https://resumeiq-ai.ai.studio
 
 ## GitHub Repository
 
-PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
-
+https://github.com/studentofds777/ResumeIQ-AI
 ---
 
 ## Screenshots
