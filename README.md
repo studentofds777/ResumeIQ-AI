@@ -165,7 +165,7 @@ PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
 
 ## Project Author
 
-Saeed Khan
+Bilad Mehmood
 
 ---
 
