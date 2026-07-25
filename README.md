@@ -139,15 +139,19 @@ PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
 
 ### Resume Analyzer
 
-(Add Screenshot Here)
+![Resume Analyzer](2.png)
 
 ### AI Resume Builder
 
-(Add Screenshot Here)
+![AI Resume Builder](3.png)
 
 ### Interview Preparation
 
-(Add Screenshot Here)
+![Interview Preparation](4.png)
+
+### History
+
+![History](5.png)
 
 ---
 
