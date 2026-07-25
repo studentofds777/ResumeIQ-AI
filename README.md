@@ -121,7 +121,7 @@ npm start
 
 Live Application
 
-PASTE_YOUR_LIVE_APP_LINK_HERE
+https://resumeiq-ai.ai.studio
 
 ---
 
