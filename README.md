@@ -135,7 +135,7 @@ PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
 
 ### Home Page
 
-(Add Screenshot Here)
+![Home Page](1.png)
 
 ### Resume Analyzer
 
