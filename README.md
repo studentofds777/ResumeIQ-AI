@@ -100,8 +100,8 @@ The application uses Google's Gemini AI to:
 1. Clone the repository
 
 bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
-
+git clone 
+(https://github.com/studentofds777/ResumeIQ-AI)
 
 2. Install dependencies
 
